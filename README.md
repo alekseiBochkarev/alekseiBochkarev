@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m QA Automation engineer
+- 🔭 I’m QA Automation engineer :monocle_face: :sunglasses:
 
 ### Languages
 
