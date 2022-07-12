@@ -21,6 +21,6 @@ Here are some ideas to get you started:
  - [x]   Russian (native)
  - [x]   English (B2)
 
-![alekseiBochkarev's GitHub stats](https://github-readme-stats.vercel.app/api?username=alekseiBochkarev&show_icons=true&theme=synthwave)
+![alekseiBochkarev's GitHub stats](https://github-readme-stats.vercel.app/api?username=alekseiBochkarev&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseiBochkarev&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
