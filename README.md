@@ -23,6 +23,6 @@ Languages
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alekseiBochkarev&show_icons=true&theme=dracula)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseiBochkarev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseiBochkarev&repo=github-readme-stats)](https://github.com/alekseiBochkarev/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseiBochkarev&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
