@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Automation of QA Automation
+- 🔭 I’m QA Automation engineer
 
 ### Languages
 
- >   Russian (native)
- >   English (B2)
+ - [x]   Russian (native)
+ - [x]   English (B2)
 
 ![alekseiBochkarev's GitHub stats](https://github-readme-stats.vercel.app/api?username=alekseiBochkarev&show_icons=true&theme=dracula)
 
