@@ -52,3 +52,11 @@ Here are some ideas to get you started:
 ![alekseiBochkarev's GitHub stats](https://github-readme-stats.vercel.app/api?username=alekseiBochkarev&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseiBochkarev&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+## Дипломный проект
+Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
+## Тестирование UI
+:link: Тестовый проект: <a target="_blank" href="https://github.com/alekseiBochkarev/leroy-merlin-tests">leroy-merlin-tests</a></br></br>
+:heavy_check_mark: Проект по автоматизации тестирования сайта <a target="_blank" href=https://www.leroymerlin.gr/gr>Leroy Merlin Greece</a>
+
+## Тестирование REST API
