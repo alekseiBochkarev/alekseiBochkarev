@@ -60,3 +60,5 @@ Here are some ideas to get you started:
 :heavy_check_mark: Проект по автоматизации тестирования сайта <a target="_blank" href=https://www.leroymerlin.gr/gr>Leroy Merlin Greece</a>
 
 ## Тестирование REST API
+:link: Тестовый проект: <a target="_blank" href="https://github.com/alekseiBochkarev/demowebshop_tests">demowebshop_tests</a></br></br>
+:heavy_check_mark: Проект по автоматизации тестирования API магазина <a target="_blank" href=http://demowebshop.tricentis.com/>Demowebshop</a>
