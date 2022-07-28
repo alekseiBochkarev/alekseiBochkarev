@@ -87,4 +87,4 @@ Here are some ideas to get you started:
 
 ## Тестирование мобильного приложения
 :link: Тестовый проект: <a target="_blank" href="https://github.com/alekseiBochkarev/wikipedia-app-tests">wikipedia-app-tests</a></br></br>
-:heavy_check_mark: ППроект по автоматизации тестирования приложения "Wikipedia" (ссылка на репозиторий приложения) <a target="_blank" href=https://github.com/wikimedia/apps-android-wikipedia/releases/>Wikipedia</a>
+:heavy_check_mark: Проект по автоматизации тестирования приложения "Wikipedia" (ссылка на репозиторий приложения) <a target="_blank" href=https://github.com/wikimedia/apps-android-wikipedia/releases/>Wikipedia</a>
