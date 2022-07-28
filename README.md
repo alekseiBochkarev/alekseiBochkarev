@@ -51,14 +51,26 @@ Here are some ideas to get you started:
 
 ## Github stats
 
-<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alekseiBochkarev&theme=react&border=61dafb&hide_border=true" alt="alekseiBochkarev" /></a>
-
-![alekseiBochkarev's GitHub stats](https://github-readme-stats.vercel.app/api?username=alekseiBochkarev&show_icons=true&theme=onedark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseiBochkarev&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align=center>
+  <div align=center>
+   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alekseiBochkarev&theme=react&border=61dafb&hide_border=true" alt="alekseiBochkarev" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+     <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=alekseiBochkarev&show_icons=true&theme=onedark" />
+    </a>
+  </div>
+ <br>
+ <div align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekseiBochkarev&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=javascript" />
+    </a>
+ </div>
+ </br>
+ <br>
 <a href="#"><img alt="alekseiBochkarev's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=alekseiBochkarev&bg_color=20232a&color=61dafb&line=61dafb&point=FFFFFF&border=61dafb&hide_border=true" width="100%" /></a>
+ </br>
+</p>
 
 ## Дипломный проект
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
