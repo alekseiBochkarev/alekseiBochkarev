@@ -49,9 +49,16 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+## Github stats
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alekseiBochkarev&theme=react&border=61dafb&hide_border=true" alt="alekseiBochkarev" /></a>
+
 ![alekseiBochkarev's GitHub stats](https://github-readme-stats.vercel.app/api?username=alekseiBochkarev&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseiBochkarev&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseiBochkarev&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="#"><img alt="alekseiBochkarev's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=alekseiBochkarev&bg_color=20232a&color=61dafb&line=61dafb&point=FFFFFF&border=61dafb&hide_border=true" width="100%" /></a>
 
 ## Дипломный проект
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
