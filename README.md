@@ -60,13 +60,16 @@ Here are some ideas to get you started:
      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=alekseiBochkarev&show_icons=true&theme=onedark" />
     </a>
   </div>
- <br>
- <div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekseiBochkarev&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=javascript" />
+  </p>
+<p align=center>
+  <div align=center>
+   <br><br><br><br><br><br><br><br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekseiBochkarev&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=javascript" />
     </a>
  </div>
- </br>
+</p>
+<p align=center>
  <br>
 <a href="#"><img alt="alekseiBochkarev's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=alekseiBochkarev&bg_color=20232a&color=61dafb&line=61dafb&point=FFFFFF&border=61dafb&hide_border=true" width="100%" /></a>
  </br>
